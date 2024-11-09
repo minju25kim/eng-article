@@ -27,13 +27,15 @@ export default function ArticleAccordion({ data }: ArticleAccordionProps) {
         <Accordion key={index} disableGutters sx={{ width: "100%" }} elevation={0}>
           <AccordionSummary
             expandIcon={<ExpandMoreIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
+            aria-controls="article-title-date"
+            id="article-title-date"
           >
-            {title}
+            <Stack direction="row" spacing={1} alignItems="center" justifyContent="space-between" sx={{ width: '100%', mr: 1 }}>
+              <Typography>{title}</Typography>
+              <Typography>{date}</Typography>
+            </Stack>
           </AccordionSummary>
           <AccordionDetails>
-            <Typography sx={{ marginBottom: 2 }}>{date}</Typography>
             <Typography sx={{ marginBottom: 2, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
               <Link href={link} underline="hover" target="_blank" rel="noopener noreferrer">
                 {link}
