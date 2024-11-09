@@ -1,5 +1,142 @@
-{
-  "date": "09/11/2024",
-  "link": "https://www.economist.com/business/2024/01/25/why-you-should-never-retire?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content.evergreen",
-  "summary": "summary will be provided from ai"
-}
+[
+  {
+    "date": "08/21/2023",
+    "link": "https://www.economist.com/business/2024/01/25/why-you-should-never-retire?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content.evergreen",
+    "title": "Why You Should Never Give Up Work",
+    "summary": "The article explores the surprising benefits of staying engaged with work beyond the traditional retirement age.",
+    "tags": ["retirement", "mental health"]
+  },
+  {
+    "date": "07/15/2022",
+    "link": "https://www.fakefinancialtimes.com/lifestyle/2022/07/15/work-after-retirement",
+    "title": "The Rise of Post-Retirement Careers",
+    "summary": "This piece examines how post-retirement careers are becoming more common, especially as people seek financial stability and mental engagement.",
+    "tags": ["post-retirement careers", "financial stability"]
+  },
+  {
+    "date": "09/03/2021",
+    "link": "https://www.fakenewsweekly.com/health/2021/09/03/retirement-health-benefits",
+    "title": "Health Benefits of Delaying Retirement",
+    "summary": "The article looks at the health benefits associated with delaying retirement, such as reducing the risk of cognitive decline.",
+    "tags": ["health benefits", "cognitive health"]
+  },
+  {
+    "date": "06/10/2020",
+    "link": "https://www.fakeinsight.com/careers/2020/06/10/flexible-retirement-options",
+    "title": "Flexible Retirement Options for Older Workers",
+    "summary": "This article highlights ways in which older workers can stay engaged without committing to full-time employment.",
+    "tags": ["flexibility", "part-time work"]
+  },
+  {
+    "date": "10/05/2019",
+    "link": "https://www.fakeseniornews.com/2019/10/05/why-people-choose-work-over-retirement",
+    "title": "Why Many Choose Work Over Retirement",
+    "summary": "This article discusses the reasons why many people prefer to keep working instead of fully retiring.",
+    "tags": ["work preference", "retirement choice"]
+  },
+  {
+    "date": "03/25/2019",
+    "link": "https://www.fakeworkplace.com/business/2019/03/25/work-life-after-retirement",
+    "title": "Work-Life Balance After Retirement",
+    "summary": "Explores how retirees are finding ways to balance work with leisure by taking on part-time roles.",
+    "tags": ["work-life balance", "part-time"]
+  },
+  {
+    "date": "11/12/2018",
+    "link": "https://www.fakecareers.com/lifestyle/2018/11/12/return-to-work-after-retirement",
+    "title": "Returning to Work: A Post-Retirement Guide",
+    "summary": "A guide on how retirees can re-enter the workforce and the benefits they may find.",
+    "tags": ["re-enter workforce", "retirement guide"]
+  },
+  {
+    "date": "08/17/2017",
+    "link": "https://www.fakejobs.com/2017/08/17/finding-purpose-in-later-life-careers",
+    "title": "Finding Purpose in Later-Life Careers",
+    "summary": "This article discusses the satisfaction many find in taking on new roles after retirement.",
+    "tags": ["career satisfaction", "later-life careers"]
+  },
+  {
+    "date": "06/05/2017",
+    "link": "https://www.fakemoneywise.com/finance/2017/06/05/saving-while-working-in-retirement",
+    "title": "Saving Money While Working in Retirement",
+    "summary": "An exploration of how continued work allows retirees to save more and achieve financial stability.",
+    "tags": ["savings", "financial security"]
+  },
+  {
+    "date": "12/29/2016",
+    "link": "https://www.fakebusiness.com/2016/12/29/the-psychology-of-working-after-retirement",
+    "title": "The Psychology of Working After Retirement",
+    "summary": "How continued work in later years positively impacts mental health and cognitive function.",
+    "tags": ["psychology", "cognitive health"]
+  },
+  {
+    "date": "04/14/2016",
+    "link": "https://www.fakecareergrowth.com/2016/04/14/building-a-second-career",
+    "title": "Building a Second Career",
+    "summary": "Tips for retirees interested in launching a new career after retirement.",
+    "tags": ["second career", "career tips"]
+  },
+  {
+    "date": "02/18/2015",
+    "link": "https://www.fakeagingwell.com/2015/02/18/benefits-of-continued-employment",
+    "title": "Benefits of Continued Employment",
+    "summary": "Discusses the many benefits of working later in life, including health, financial, and social advantages.",
+    "tags": ["employment benefits", "later life"]
+  },
+  {
+    "date": "09/11/2014",
+    "link": "https://www.fakefinancialfreedom.com/2014/09/11/retirement-redefined",
+    "title": "Retirement Redefined: Flexible Career Options",
+    "summary": "Explores flexible career options that allow people to stay engaged without full-time work.",
+    "tags": ["flexible work", "retirement redefined"]
+  },
+  {
+    "date": "05/22/2013",
+    "link": "https://www.fakelifestyle.com/2013/05/22/balancing-work-leisure-after-60",
+    "title": "Balancing Work and Leisure After 60",
+    "summary": "Explores how older adults can balance part-time work with personal time.",
+    "tags": ["work-life balance", "leisure"]
+  },
+  {
+    "date": "10/07/2012",
+    "link": "https://www.fakefuturecareers.com/2012/10/07/rethinking-retirement",
+    "title": "Rethinking Retirement: A New Perspective",
+    "summary": "How society's view of retirement is changing, with more people choosing to continue working.",
+    "tags": ["rethinking retirement", "societal change"]
+  },
+  {
+    "date": "07/16/2011",
+    "link": "https://www.faketimes.com/2011/07/16/cognitive-benefits-of-working-longer",
+    "title": "Cognitive Benefits of Working Longer",
+    "summary": "The cognitive benefits of working past retirement age, including reduced risk of mental decline.",
+    "tags": ["cognitive health", "mental decline"]
+  },
+  {
+    "date": "03/20/2010",
+    "link": "https://www.fakeinsight.com/2010/03/20/post-retirement-ventures",
+    "title": "Post-Retirement Ventures: Exploring New Passions",
+    "summary": "Many retirees find joy in exploring new business ventures or passion projects after retirement.",
+    "tags": ["new ventures", "passion projects"]
+  },
+  {
+    "date": "12/04/2009",
+    "link": "https://www.fakeelderlifestyle.com/2009/12/04/importance-of-social-connections",
+    "title": "The Importance of Social Connections in Later Life Work",
+    "summary": "Explores how work in later life helps maintain social connections.",
+    "tags": ["social connections", "later life"]
+  },
+  {
+    "date": "05/13/2008",
+    "link": "https://www.fakefinance.com/2008/05/13/financing-life-after-retirement",
+    "title": "Financing Life After Retirement Through Part-Time Work",
+    "summary": "Ways to fund retirement with part-time work or consulting roles.",
+    "tags": ["financing", "part-time work"]
+  },
+  {
+    "date": "11/26/2007",
+    "link": "https://www.fakeworkforce.com/2007/11/26/retirement-and-productivity",
+    "title": "Retirement and Productivity: Staying Active",
+    "summary": "Productivity tips for retirees looking to stay engaged in the workforce.",
+    "tags": ["productivity", "active lifestyle"]
+  }
+]
